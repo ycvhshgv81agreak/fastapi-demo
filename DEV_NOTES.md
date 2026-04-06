@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Reviewed codebase, identified areas for improvement
 - Tested build on clean environment
+
+## 2026-04-06
+- Reviewed security headers configuration
+- Resolved deprecation warnings
