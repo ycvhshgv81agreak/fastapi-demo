@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Reviewed security headers configuration
 - Resolved deprecation warnings
+
+## 2026-04-06
+- Tested build on clean environment
+- Tidied up project structure
+- Addressed feedback from self code review
